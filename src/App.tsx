@@ -34,6 +34,6 @@ function App() {
       </ul>
     </div>
   );
-}
+ } // test 2
 
 export default App;
